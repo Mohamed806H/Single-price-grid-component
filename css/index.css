@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+:root {
+  --font-base: 'Karla', sans-serif;
+
+  --Primary-color: hsl(179, 62%, 43%);
+  --Seconed-color: hsl(71, 73%, 54%);
+  --LightGray-color: hsl(204, 43%, 93%);
+  --GrayishBlue-color: hsl(218, 22%, 67%);
+  --White-color:hsl(0, 0%, 100%);
+  --LightCayn-color:hsl(179,47%,52%);
+
+}
+body{
+  font-family: var(--font-base);
+  font-size: 16px;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+.section-box{
+  width: 634px;
+  height: 220px;
+  background-color: var(--White-color);
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.36);
+}
+
+
+.section-card{
+  width: 317px;
+  height: 260px;
+}
+@media screen and (max-width:375px) {
+  .section-box{
+    width: 311px;
+    height: 267px;
+  }
+  .section-card{
+  width: 311px;
+  height: 227px;
+  }
+}
+
+a{
+  text-decoration: none;
+}
