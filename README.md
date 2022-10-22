@@ -10,7 +10,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Links
 
 - Solution URL:(https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-bPLHNuxBrI)
-- Live Site URL:(https://mohamed806h.github.io/)
+- Live Site URL:(https://mohamed806h.github.io/](https://mohamed806h.github.io/Single-price-grid-component/)
 
 ## Built with
 
